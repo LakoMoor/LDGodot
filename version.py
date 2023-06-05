@@ -1,5 +1,5 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "ldgodot"
+name = "LDGodot Engine"
 major = 4
 minor = 1
 patch = 0

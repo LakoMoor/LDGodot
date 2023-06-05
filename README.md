@@ -1,14 +1,14 @@
-# Godot Engine
+# **LDGodot Engine**
 
-<p align="center">
+<!--<p align="center">
   <a href="https://godotengine.org">
     <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
   </a>
-</p>
+</p>-->
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**LDGodot Engine (Based [Godot Engine](https://godotengine.org)) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that users can focus on making games
 without having to reinvent the wheel. Games can be exported with one click to a
@@ -65,12 +65,4 @@ is also accessible from the Godot editor.
 We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
 as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
 
-There are also a number of other
-[learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
-provided by the community, such as text and video tutorials, demos, etc.
-Consult the [community channels](https://godotengine.org/community)
-for more information.
 
-[![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
-[![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
